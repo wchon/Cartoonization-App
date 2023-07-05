@@ -1,2 +1,6 @@
-# Cartoonization-App
-It is a image cartoonization model which takes a person image as an input and cartoonizes the image.
+## Cartoonization-App
+It is an image cartoonization model which takes a person image as an input and cartoonizes the image.
+
+## Technologies Used
+--OpenCV
+--Colab
